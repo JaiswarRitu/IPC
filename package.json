@@ -1,0 +1,23 @@
+{
+  "name": "ipc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MissRItu@bitbucket.org/MissRItu/ipc.git"
+  },
+  "author": "rituj",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/MissRItu/ipc#readme",
+  "dependencies": {
+    "ioredis": "^2.5.0",
+    "nodelogger": "git+ssh://git@bitbucket.org-rituj:MissRItu/nodelogger.git"
+  }
+}
